@@ -20,6 +20,7 @@ In addition to standard predictive modeling, we explored anomaly detection metho
 - lightgbm
 - category_encoders
 - pyod
+- SHAP
 
 ---
 ### Data Source
