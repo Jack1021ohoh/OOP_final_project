@@ -2,7 +2,11 @@
 
 ---
 ### Description
-This is the final project for the Object-oriented programming course. We used python programming language to analyze and predict whether a person has a stroke. The most interesting part of this project is that, in the data preprocessing process, We used the Hash Encoding technique to encode the categorical variables and we used SMOTE + ENN to deal with imbalanced data. Moreover, we tried to use anomaly detection techniques to predict, such as OneClass SVM, Extreme Boosting Based Outlier Detection.
+This project is the final assignment for the Object-Oriented Programming course, where we used Python to develop a model for analyzing and predicting the likelihood of a person experiencing a stroke. The project involved several key techniques that enhanced the model's performance and accuracy.
+
+During the data preprocessing phase, we implemented Hash Encoding to efficiently encode categorical variables, ensuring that the model could effectively handle diverse data inputs. To address the challenge of imbalanced data, we combined SMOTE (Synthetic Minority Over-sampling Technique) with ENN (Edited Nearest Neighbors), which helped create a more balanced dataset and improved the model’s predictive capabilities.
+
+In addition to standard predictive modeling, we explored anomaly detection methods, including One-Class SVM and Extreme Boosting-Based Outlier Detection, to enhance our predictions. These techniques were particularly valuable in identifying outliers that could indicate potential stroke cases.
 
 ---
 ### Built With
